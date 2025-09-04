@@ -3,11 +3,10 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
-- Nome Componente 4
-- Nome Componente 5
+- Danilo Miranda - 22.221.037-9
+- Gabriel Balbine - 
+- Iago Rosa de Oliveira - 
+- Sergio Martins - 
 
 ## Tópicos
 - [Introdução](./docs/1-introducao.md)
