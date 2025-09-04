@@ -5,7 +5,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 - Danilo Miranda - 22.221.037-9
 - Gabriel Balbine - 
-- Iago Rosa de Oliveira - 
+- Iago Rosa de Oliveira - 22.224.027-7
 - Sergio Martins - 
 
 ## Tópicos
