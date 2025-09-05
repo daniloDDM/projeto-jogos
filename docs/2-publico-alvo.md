@@ -1,3 +1,2 @@
 ### Público Alvo
-Nosso jogo será voltado para o público jovem e adulto, que tenha interesse em histórias da mitologia nórdica e em jogos que apresentam um desafio de dificuldade constante.
-
+O jogo é voltado para jovens e adultos que gostam de ação, aventura e histórias inspiradas na mitologia nórdica. Atrai jogadores que valorizam uma narrativa envolvente, com batalhas contra monstros, exploração de mapas desafiadores e desenvolvimento de habilidades ao longo do jogo.
