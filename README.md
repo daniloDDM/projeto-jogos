@@ -19,4 +19,6 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 - [Prototipação](./docs/7-prototipacao.md)
 - [Testes](./docs/8-testes.md)
 
+## Link para vídeo de apresentação do projeto:
+https://drive.google.com/file/d/1gXMnBQz3OH4sTwa_gxbJ13E-RSuhwhLC/view?usp=sharing
 
