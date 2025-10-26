@@ -68,5 +68,5 @@ Use nomes de branch padronizados:
 
 # LINKS SPRITES
 
-- (https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/
-)[PLAYER]
+- [PLAYER](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/
+)
