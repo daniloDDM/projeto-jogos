@@ -43,15 +43,21 @@ O parâmetro -u define o rastreamento remoto, então nas próximas vezes basta g
 ## 🚀 4. Criar Pull Request (PR)
 
 Vá até o repositório no GitHub.
+
 O site sugerirá abrir um Pull Request da sua branch para dev.
+
 Coloque um título claro e uma breve descrição do que foi feito.
+
 Marque alguém para revisar.
 
 ## 🧹 5. Boas práticas
 
 Não trabalhe direto na dev ou main.
+
 Commits curtos e descritivos.
+
 Sempre atualize sua branch antes de subir.
+
 Use nomes de branch padronizados:
 - feature/ → nova funcionalidade
 - fix/ → correção de bug
