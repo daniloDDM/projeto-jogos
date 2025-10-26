@@ -63,3 +63,10 @@ Use nomes de branch padronizados:
 - fix/ → correção de bug
 - hotfix/ → correção urgente
 - chore/ → ajustes menores, configs etc.
+
+---
+
+# LINKS SPRITES
+
+- (https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/
+)[PLAYER]
