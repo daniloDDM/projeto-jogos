@@ -69,6 +69,9 @@ Use nomes de branch padronizados:
 # LINKS SPRITES
 
 - [Yvar](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/)
+- [Odin](https://www.spriters-resource.com/ds_dsi/thorgodofthunder/asset/56859)
+- [Thor](https://www.spriters-resource.com/browser_games/marvelavengers/asset/67202)
+- [Loki](https://www.spriters-resource.com/browser_games/marvelavengers/asset/57793)
 - [Jormag: boss Niflheim](https://www.spriters-resource.com/mobile/projectcleanearth/asset/485799)
 - [Gullin: boss Helheim](https://www.spriters-resource.com/ms_dos/witchaven/asset/30897)
 - [Surtr: boss Muspelheim](https://www.spriters-resource.com/pc_computer/mnmvii/asset/43154)
