@@ -68,16 +68,23 @@ Use nomes de branch padronizados:
 
 # LINKS SPRITES
 
+PRINCIPAIS:
 - [Yvar](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/)
 - [Odin](https://www.spriters-resource.com/ds_dsi/thorgodofthunder/asset/56859)
 - [Thor](https://www.spriters-resource.com/browser_games/marvelavengers/asset/67202)
 - [Loki](https://www.spriters-resource.com/browser_games/marvelavengers/asset/57793)
+
+NIFLHEIN:
 - [Jormag: boss Niflheim](https://www.spriters-resource.com/mobile/projectcleanearth/asset/485799)
+- [Ice Spirit (Niflheim)](https://www.spriters-resource.com/mobile/dhl4/asset/60441)
+- [Ice Golem (Niflheim)](https://www.spriters-resource.com/game_boy_advance/snight2/asset/20733)
+
+HELHEIM:
 - [Gullin: boss Helheim](https://www.spriters-resource.com/ms_dos/witchaven/asset/30897)
+- [Skeleton Warrior (Helheim)](https://www.spriters-resource.com/mobile/demonhuntlgnd/asset/44639)
+- [Spectre (Helheim)](https://www.spriters-resource.com/ds_dsi/castlevaniaorderofecclesia/asset/19221)
+- [Spectre 2 (Helheim)](https://www.spriters-resource.com/pc_computer/koumajoudensetsuiistrangersrequiem/asset/88787)
+
+MUSPELHEIM:
 - [Surtr: boss Muspelheim](https://www.spriters-resource.com/pc_computer/mnmvii/asset/43154)
-- [Inimigo X (Helheim)](https://www.spriters-resource.com/mobile/demonhuntlgnd/asset/44639)
-- [Inimigo X (Niflheim)](https://www.spriters-resource.com/mobile/dhl4/asset/60441)
-- [Inimigo Y (Niflheim)](https://www.spriters-resource.com/game_boy_advance/snight2/asset/20733)
-- [Inimigo X (Muspelheim)](https://www.spriters-resource.com/game_boy_advance/kirbynim/asset/2963)
-- [Inimigo X (Helheim)](https://www.spriters-resource.com/ds_dsi/castlevaniaorderofecclesia/asset/19221)
-- [Inimigo X (Helheim)](https://www.spriters-resource.com/pc_computer/koumajoudensetsuiistrangersrequiem/asset/88787)
+- [Fire Lion (Muspelheim)](https://www.spriters-resource.com/game_boy_advance/kirbynim/asset/2963)
