@@ -70,3 +70,5 @@ Use nomes de branch padronizados:
 
 - [Yvar](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/)
 - [Jormag: boss Niflheim](https://www.spriters-resource.com/mobile/projectcleanearth/asset/485799)
+- [Gullin: boss Helheim](https://www.spriters-resource.com/ms_dos/witchaven/asset/30897)
+- [Surtr: boss Muspelheim](https://www.spriters-resource.com/pc_computer/mnmvii/asset/43154)
