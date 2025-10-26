@@ -68,5 +68,5 @@ Use nomes de branch padronizados:
 
 # LINKS SPRITES
 
-- [PLAYER](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/)
-- [PLAYER](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/)
+- [Yvar](https://www.spriters-resource.com/game_boy_advance/fireemblemtheblazingblade/asset/14107/)
+- [Jormag: boss Niflheim](https://www.spriters-resource.com/mobile/projectcleanearth/asset/485799)
