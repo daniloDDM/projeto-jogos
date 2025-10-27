@@ -1,0 +1,2525 @@
+fileFormatVersion: 2
+guid: 17b0f09e260060743b04c1c08224ecac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5047735140154635360
+    second: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1014
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf940651f020c488eb58d580672449
+      internalID: 1375907931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1012
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07438ff7a92ceb040a1dcc35bc618457
+      internalID: -1705441199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1011
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28edff73b584fb5499c37688d9e893ef
+      internalID: -2142047143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c573e4ad8522488e910cd0a231bbf
+      internalID: -1616368746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1020
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4b20587e6a974a8d9e331303e964f
+      internalID: -2109713921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1004
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d491592c39838499c9fbab95e3b5cf
+      internalID: -1314972718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1024
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7654a41926f72684ebe9f7ded4d7cf08
+      internalID: 1076758834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1024
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aed1db321662e498a1469f74639f95
+      internalID: 440294770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1023
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e711be98fab31478eba03bc258dd84
+      internalID: -1128164918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1024
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f605f63fd4b0341bc59fe7a18338d7
+      internalID: 433152202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1024
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994d150d4c6d264197186fba09d23e2
+      internalID: 721358349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 937
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2528b16bcda5ae49b04c69def31a63f
+      internalID: 1597411203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 940
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050cf20c9309c194285582b029ad0adf
+      internalID: -1926225095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 942
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03766ac2ca23644cb615bd0b4d95613
+      internalID: 326347062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 940
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adcd489b129599458a738fdfa034fe8
+      internalID: -152803100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 940
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1fa5eb1314114eaa71a900690f3d0
+      internalID: 1530861101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 937
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b87dd77919d9e8448ac1fdd60839ce8
+      internalID: -507844528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 935
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18ff1d103e07f4ea72999f0c73baab
+      internalID: -1566096272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 964
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48002d23f4159a649a9928f9f7c0ce06
+      internalID: 680112097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 964
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bbba53d2bb5ad459fc0b36112ee8ef
+      internalID: 1957230206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 965
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0251cc7e930799468340d28c36303c3
+      internalID: -1010566621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 965
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173a46f825936443b598d25d93b1eca
+      internalID: 1689176500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 911
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9823d2f2b7bd740acbcfc292649d92
+      internalID: -320615493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 911
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e59036d9fc7746b2bcdccedbf063b
+      internalID: -1771277709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 910
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f366a81ff9c174c864c56a8f5862f8
+      internalID: 418614699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 910
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9209d4e80d814b9c5e75e0d89d1a1
+      internalID: -1007894527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 911
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12622dc7249a8d049b411c0b530dc94e
+      internalID: -1920155929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 928
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34c867bfc43169449b29dc6d2dff2ee
+      internalID: 454875232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 914
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996dca411ca5974cbea41ca058e2ca5
+      internalID: -1865567948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 830
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9f18af0738d244943bfd72cdf5ac4
+      internalID: 1269365555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 826
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f33f0358db19c8438645e99a3cdf013
+      internalID: 1677892992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 833
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e2612813387f646a4218d542ee4aac
+      internalID: -391424033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 834
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119c279288581bb42986f50dfecac134
+      internalID: 1980231304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 834
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d068846d21a7d9d4db1e1be5c831120b
+      internalID: 306865494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 830
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1844652eea2f9f4ebaa3dfe057d5c68
+      internalID: -165031753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 827
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e44556b0f5cd143bad6e76b54b0060
+      internalID: -2083743445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 827
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8c8abe11980e429a0f164ceac97d8
+      internalID: -1355329194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 736
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d98aa9c93b0f499d47d0039fdee30
+      internalID: -1225722873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 742
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6afc9bac2d2fda4ca3e8348c0efbc4d
+      internalID: -1227882523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 746
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24188d2a66cc2464f9dcc8c995adfbb3
+      internalID: 758695598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 746
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4a64de943632e44bdd903fd8cdd431
+      internalID: 357403920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_96
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 748
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25e028160ab53419112201de21fb49
+      internalID: 233950818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_97
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 781
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5801c5f597414da4a96177982ac504b8
+      internalID: 1538064632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_98
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 783
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd2381a273d974c9c0cd3cd8344112
+      internalID: -1549283485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_99
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 782
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb72ce49f70f30c4d99fc217821e8f3e
+      internalID: 674482192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_100
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 777
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e491397aa915343bbd9b0773389d13
+      internalID: -77591245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_101
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 775
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657cc5e86389d6f45b3d2ed7efcf440b
+      internalID: -1331341657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_102
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 775
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb957dd811f60bd4492fea0367c9a4dd
+      internalID: 2088085503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_103
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 776
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae5a8bb3bd2e34fa9cb53f5f71e9d0
+      internalID: 400313153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_104
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 732
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c33da67881934d4e8b4ea5f77991f82
+      internalID: -169385693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_105
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 734
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8556aa95df1132042a9c09e82134539e
+      internalID: 978436117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_106
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 735
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd13f35fddeaf6041957c4f06ea0e7c1
+      internalID: 176017831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_107
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 726
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893a3ea780b4c4e478867ca81d61cdec
+      internalID: 1079043930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_108
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 725
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2514957baefc42a7a33ed3d395f96
+      internalID: 2117608340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_109
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 727
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad36dcf41d6504faa49a7914a39324
+      internalID: 957664011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_110
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 727
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa08ad1608bce64cb6f978ed00657b7
+      internalID: -909971996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_111
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 727
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c412804dc1ac4e249904064244f16064
+      internalID: -851732415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_112
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 654
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae0b814f9839c4eba31acd9055b60d
+      internalID: 333224947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_113
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 656
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe717fa72bfadde4fb3ff4a6ff0b77da
+      internalID: 378501509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_114
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 658
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec8e89d3afc6b34688b51966bb7abda
+      internalID: 1017936995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_115
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 658
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf33dd8351a6ac4eabef38125a631e6
+      internalID: 1658684277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_116
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 659
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9ddae44ef1d64e8c80eef55203490
+      internalID: 255902420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 658
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85982ae26a48ce4f9801078fb7a529c
+      internalID: -600001972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_118
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 657
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4389c23fa4845448ac7e934122beb70
+      internalID: 2037329768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_119
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 650
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19126b43cbc70b43aad1feef002ab87
+      internalID: -247611636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_120
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 651
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639f9eb309fbe984da0e5bb33e3741ba
+      internalID: -2111509284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 547
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b50e5eb290ce914d8d70a8b742b0008
+      internalID: 1022517147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_139
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 548
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c65301642e2a34890585a94a007565
+      internalID: -2015378237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_140
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 549
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19ccf22919a1a4ca51a0e31a538eb6
+      internalID: 429578396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_141
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 550
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c967b24aef8bd3b4993d947e3a1e9a55
+      internalID: 1816650484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_142
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 552
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44304fa55d9be64a811cede24fae892
+      internalID: -2114031988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_143
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 552
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ca3169981bedc4499f7fba95f77baf
+      internalID: 1682709241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_144
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 552
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5418864277033d419cf312e3eb2a3df
+      internalID: -415140472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_149
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 553
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbd7026289e61249947f64fd3915c98
+      internalID: 1300910091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_170
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 445
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2fbb470f2a43c4987ca70ffcafa22e
+      internalID: 840524148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_171
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 444
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516385a0a0ad498428664235d8324eb5
+      internalID: 841585460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_172
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 446
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a6d8757e899e54ea78e049e65d3290
+      internalID: 182124494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_173
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 445
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b9043de41622449f9df1cee40d5bb
+      internalID: 1300787489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_174
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 447
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f52417cd317246bc00f2ab21a46ab
+      internalID: -2140392394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_175
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 445
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5d2eeebea95494e8a06da7cf36b880
+      internalID: 1435862101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_176
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 444
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138abf09f5d1d764bb56fa9023130e24
+      internalID: -852165313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_177
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 446
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1ba91e403d3ae48a035c24f9f8f358
+      internalID: -70832946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_178
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 448
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac507cf1a1758be43b1405e26d389ecf
+      internalID: -482997991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_202
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 81
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2e2c792750d214e8b890cdeb924656
+      internalID: -1088754912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_203
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 83
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d8fdd034b1fd24eb9a6c28711c9de1
+      internalID: -1214218133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_204
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 77
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7025ab2fa437d634d87bc6dccbea58ee
+      internalID: -122554708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_205
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 73
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82b36ea88d137840a6ddba30b5f0570
+      internalID: 1069307390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_206
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 81
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ecd65605a4c1442ab5c2ef9114ba25
+      internalID: -1125072388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_207
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 81
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5095ddd4d2b92d84d8d553d3cf8575d9
+      internalID: 1893492929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_208
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 78
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df027b2c5039574c89796f0a7c63efe
+      internalID: 447524535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_209
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 85
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f31a606e76d1a54885066f63ff4e82d
+      internalID: 2106214939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_210
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 82
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50333edc85584e64eb49ec83511a9f4b
+      internalID: -1032266710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_212
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 76
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb6f78733a459b48915e7aa46e0bc8f
+      internalID: -384841829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_213
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 74
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c24a92c711b40448be4f910bb5d466
+      internalID: -1537393205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_214
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9075fb140bc3044ace72991a554439
+      internalID: -452916501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_215
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd684bfa7d5508746823481a02935e12
+      internalID: 880496880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_216
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423634bb648c3fd4895726d9325cb7ad
+      internalID: -1977660055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_217
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 17
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664a011f3093734aaa6e74835a8f72a
+      internalID: 1273864444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_218
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 16
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9661337f96cef6499d478066a01cc58
+      internalID: -417190774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_219
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 20
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3b0926feaad241a89d6b724578192
+      internalID: -941151797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_220
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 19
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a03a10271726fb4986c4e8173eb84ef
+      internalID: -513984452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_221
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 17
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519711a1cee960b4a983abd722ff07e3
+      internalID: -652959547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_222
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 13
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b80c310b0d68c48a928159b244d595
+      internalID: -833853250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_223
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 9
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8a97189fb41c345b498819d12d9b0b
+      internalID: 1785272897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 70c9057e6643c7941a63a3ef69ba536e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_0: -5047735140154635360
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_1: -2050285827
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_10: -455860302
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_100: -77591245
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_101: -1331341657
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_102: 2088085503
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_103: 400313153
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_104: -169385693
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_105: 978436117
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_106: 176017831
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_107: 1079043930
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_108: 2117608340
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_109: 957664011
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_11: -1301057074
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_110: -909971996
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_111: -851732415
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_112: 333224947
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_113: 378501509
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_114: 1017936995
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_115: 1658684277
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_116: 255902420
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_117: -600001972
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_118: 2037329768
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_119: -247611636
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_12: 936001452
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_120: -2111509284
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_121: -719711300
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_122: -1048010106
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_123: -1309586788
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_124: -226673280
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_125: 1847807620
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_126: -1738668605
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_127: 351542959
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_128: 919044527
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_129: 1425192330
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_13: 891591935
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_130: -148520008
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_131: -1666957390
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_132: -761264429
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_133: -1039576616
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_134: 541052928
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_135: -1842526555
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_136: -779564194
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_137: -608935826
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_138: 1022517147
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_139: -2015378237
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_14: 1549182744
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_140: 429578396
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_141: 1816650484
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_142: -2114031988
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_143: 1682709241
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_144: -415140472
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_145: -833416641
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_146: -350962564
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_147: 1344406252
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_148: 448110150
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_149: 1300910091
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_15: 134374671
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_150: 522981888
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_151: 222716566
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_152: -980855041
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_153: 116548684
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_154: 481094606
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_155: -1147026645
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_156: -832000946
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_157: -786029221
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_158: -1502624472
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_159: 891785103
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_16: -1483453787
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_160: 1448643028
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_161: -288128262
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_162: 545339334
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_163: -1815512064
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_164: 1105594043
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_165: 1918883837
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_166: -1284914813
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_167: -702228805
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_168: -1576019371
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_169: -1460550660
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_17: 1082705523
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_170: 840524148
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_171: 841585460
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_172: 182124494
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_173: 1300787489
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_174: -2140392394
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_175: 1435862101
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_176: -852165313
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_177: -70832946
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_178: -482997991
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_179: 32182719
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_18: -446608664
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_180: 4731510
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_181: 1764321194
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_182: 1606163475
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_183: 1453216487
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_184: 1628918155
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_185: 807800424
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_186: 435476873
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_187: 705486513
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_188: -1182351721
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_189: -916895987
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_19: -847145711
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_190: 1853448947
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_191: 131706688
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_192: 13132225
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_193: -1524491549
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_194: -45722513
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_195: 979584527
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_196: 1314906821
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_197: 1125415757
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_198: -1551893621
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_199: -917380173
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_2: 1360656470
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_20: -1432193022
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_200: -1383474925
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_201: -704285315
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_202: -1088754912
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_203: -1214218133
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_204: -122554708
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_205: 1069307390
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_206: -1125072388
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_207: 1893492929
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_208: 447524535
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_209: 2106214939
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_21: 2146332032
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_210: -1032266710
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_211: 141551826
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_212: -384841829
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_213: -1537393205
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_214: -452916501
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_215: 880496880
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_216: -1977660055
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_217: 1273864444
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_218: -417190774
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_219: -941151797
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_22: 1870348361
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_220: -513984452
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_221: -652959547
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_222: -833853250
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_223: 1785272897
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_23: 560654849
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_24: -1107713360
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_25: 426987147
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_26: 1375907931
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_27: -1675333423
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_28: -1705441199
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_29: -2142047143
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_3: -1673412484
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_30: -1616368746
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_31: -2109713921
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_32: -1314972718
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_33: 1076758834
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_34: 440294770
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_35: -1128164918
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_36: 433152202
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_37: 721358349
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_38: 1597411203
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_39: -1926225095
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_4: 1123083286
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_40: 326347062
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_41: -152803100
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_42: 1530861101
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_43: -507844528
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_44: -1566096272
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_45: 680112097
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_46: 1957230206
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_47: -1010566621
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_48: 1689176500
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_49: -320615493
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_5: 32440486
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_50: -1771277709
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_51: 418614699
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_52: -1007894527
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_53: -1920155929
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_54: 454875232
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_55: -1865567948
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_56: -360039285
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_57: 1800692964
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_58: 1790712085
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_59: -2060106075
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_6: 249473446
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_60: 1117862879
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_61: 857485172
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_62: 424732027
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_63: -128027446
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_64: 1751260986
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_65: 1473632516
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_66: 1563033977
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_67: 479650323
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_68: 1269365555
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_69: 1677892992
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_7: -46082495
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_70: -391424033
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_71: 1980231304
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_72: 306865494
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_73: -165031753
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_74: 223039171
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_75: -2083743445
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_76: -1355329194
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_77: -1443684232
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_78: 1171761603
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_79: 1527184224
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_8: 777810409
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_80: 336326145
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_81: 1928405737
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_82: 530018782
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_83: 375143084
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_84: 615073828
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_85: 520734125
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_86: 732890595
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_87: -2098172588
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_88: 1436108948
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_89: 2077487921
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_9: -515969495
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_90: -775382151
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_91: -1225722873
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_92: -953550390
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_93: -1227882523
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_94: 758695598
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_95: 357403920
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_96: 233950818
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_97: 1538064632
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_98: -1549283485
+      Game Boy Advance - Fire Emblem_ The Blazing Blade - Generic Units - Warrior_99: 674482192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
