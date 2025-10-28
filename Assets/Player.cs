@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
     public KeyCode moveRight = KeyCode.RightArrow;
     public KeyCode moveLeft = KeyCode.LeftArrow;
     public KeyCode jump = KeyCode.UpArrow;
+    public KeyCode golpe = KeyCode.Space;
     //public KeyCode fire = KeyCode.Space;
     public float moveSpeed = 5f;
     public float jumpForce = 15f;
@@ -30,6 +31,7 @@ public class Player : MonoBehaviour
         animator.SetBool("pisando", isGrounded);
         animator.SetBool("andandoDireita", false);
         animator.SetBool("andandoEsquerda", false);
+        animator.SetBool("golpeando", false);
 
         float horizontalDirection = 0.0f;
 
@@ -56,6 +58,11 @@ public class Player : MonoBehaviour
         var hPosition = transform.position;
         hPosition.x = Mathf.Clamp(hPosition.x, -boundX, boundX);
         transform.position = hPosition;
+
+        if (Input.GetKey(golpe))
+        {
+            animator.SetBool("golpeando", true);
+        }
 
         //if (Input.GetKeyDown(fire))
         //{
