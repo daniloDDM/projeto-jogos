@@ -244,12 +244,12 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.5, y: 0.5, z: 0}
+  m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
   m_Mode: 0
-  m_DetectChunkCullingBounds: 0
+  m_DetectChunkCullingBounds: 1
   m_MaskInteraction: 0
 --- !u!1839735485 &110061851
 Tilemap:
@@ -769,12 +769,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1125072388, guid: 17b0f09e260060743b04c1c08224ecac, type: 3}
+  m_Sprite: {fileID: -2009841120776313706, guid: f12f2ce1e50bf8443bdf753e3c1476eb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.32, y: 0.5}
+  m_Size: {x: 0.35, y: 0.48}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -789,7 +789,7 @@ Transform:
   m_GameObject: {fileID: 304340786}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -2.5, z: 0}
+  m_LocalPosition: {x: 0, y: -2, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -810,7 +810,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 5
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -818,7 +818,7 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
@@ -856,17 +856,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.04}
+  m_Offset: {x: 0, y: 0.01}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.32, y: 0.5}
-    newSize: {x: 0.32, y: 0.5}
+    oldSize: {x: 0.35, y: 0.48}
+    newSize: {x: 0.35, y: 0.48}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.32, y: 0.45}
+  m_Size: {x: 0.3, y: 0.46}
   m_EdgeRadius: 0
 --- !u!114 &304340792
 MonoBehaviour:
@@ -884,7 +884,7 @@ MonoBehaviour:
   moveLeft: 276
   jump: 273
   moveSpeed: 5
-  jumpForce: 5
+  jumpForce: 15
   boundX: 13
   boundY: 4.5
 --- !u!1 &519420028

@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
     public KeyCode jump = KeyCode.UpArrow;
     //public KeyCode fire = KeyCode.Space;
     public float moveSpeed = 5f;
-    public float jumpForce = 5f;
+    public float jumpForce = 15f;
     public float boundX = 13.0f;
     public float boundY = 4.5f;
 
@@ -40,8 +40,7 @@ public class Player : MonoBehaviour
         }
         else if (Input.GetKey(moveLeft))
         {
-            animator.SetBool("andandoDireita", true);
-            //animator.SetBool("isMoving", true);
+            animator.SetBool("andandoEsquerda", true);
             horizontalDirection = -1.0f;
         }
 
