@@ -15,11 +15,13 @@ public class Player : MonoBehaviour
     public float boundX = 13.0f;
     public float boundY = 4.5f;
 
+    public GameObject hitbox;
+
     Rigidbody2D rb;
     Animator animator;
     SpriteRenderer sr;
 
-    float inputX;          // lido em Update
+    float inputX;
     bool isGrounded = true;
 
     void Awake()
@@ -28,43 +30,43 @@ public class Player : MonoBehaviour
         animator = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
 
+        hitbox.SetActive(false);
+
         // Suaviza visual quando a física interpola entre passos de FixedUpdate
         rb.interpolation = RigidbodyInterpolation2D.Interpolate;
     }
 
     void Update()
     {
-        // --- INPUT ---
         inputX = 0f;
         if (Input.GetKey(moveRight)) inputX += 1f;
         if (Input.GetKey(moveLeft)) inputX -= 1f;
 
-        // --- ANIMATOR PARAMS (somente set de valores, sem mover aqui) ---
         animator.SetBool("pisando", isGrounded);
-        animator.SetFloat("andando", Mathf.Abs(inputX));  // use em um Blend Tree (0 = Idle, >0 = Walk)
+        animator.SetFloat("andando", Mathf.Abs(inputX));
 
-        // Vira o sprite conforme direção
-        if (inputX != 0f) sr.flipX = inputX < 0f;
+        if (inputX != 0f) // virar o personagem (tinha feito de outro jeito, mas mudei já pensando no combate)
+        {
+            float facing = inputX < 0f ? -1f : 1f;
+            var s = transform.localScale;
+            transform.localScale = new Vector3(Mathf.Abs(s.x) * facing, s.y, s.z);
+        }
 
-        // Pulo
         if (Input.GetKeyDown(jump) && isGrounded)
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 
-        // Golpe como Trigger (no Animator crie o parâmetro "golpear" do tipo Trigger)
         if (Input.GetKeyDown(golpe))
             animator.SetTrigger("golpeando");
     }
 
     void FixedUpdate()
     {
-        // --- MOVIMENTO DE FATO (física) ---
         rb.velocity = new Vector2(inputX * moveSpeed, rb.velocity.y);
 
-        // --- LIMITES (se realmente precisar) ---
-        var pos = rb.position; // usa rb.position em vez de transform.position
+        var pos = rb.position;
         pos.x = Mathf.Clamp(pos.x, -boundX, boundX);
         pos.y = Mathf.Clamp(pos.y, -boundY, boundY);
-        rb.position = pos;     // evita brigar com a física
+        rb.position = pos;
     }
 
     void OnCollisionEnter2D(Collision2D c)
@@ -74,5 +76,15 @@ public class Player : MonoBehaviour
     void OnCollisionExit2D(Collision2D c)
     {
         if (c.gameObject.CompareTag("Plataforma")) isGrounded = false;
+    }
+
+    public void EnableHitbox()
+    {
+        hitbox.SetActive(true);
+    }
+
+    public void DisableHitbox()
+    {
+        hitbox.SetActive(false);
     }
 }
