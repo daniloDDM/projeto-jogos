@@ -81,10 +81,12 @@ public class Player : MonoBehaviour
     public void EnableHitbox()
     {
         hitbox.SetActive(true);
+        Debug.Log("true");
     }
 
     public void DisableHitbox()
     {
         hitbox.SetActive(false);
+        Debug.Log("false");
     }
 }
