@@ -9,12 +9,13 @@ public class AttackHitbox : MonoBehaviour
     {
         if (other.CompareTag(tagInimigo))
         {
-            Inimigo inimigo = other.GetComponent<Inimigo>();
+            //Inimigo inimigo = other.GetComponent<Inimigo>();
 
-            if (inimigo != null)
-            {
-                inimigo.TakeDamage(dano);
-            }
+            //if (inimigo != null)
+            //{
+            //    inimigo.TakeDamage(dano);
+            //}
+            Debug.Log("Toma!");
         }
     }
 }

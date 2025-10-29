@@ -12,8 +12,6 @@ public class Player : MonoBehaviour
     [Header("Movement")]
     public float moveSpeed = 5f;
     public float jumpForce = 15f;
-    public float boundX = 13.0f;
-    public float boundY = 4.5f;
 
     public GameObject hitbox;
 
@@ -64,8 +62,6 @@ public class Player : MonoBehaviour
         rb.velocity = new Vector2(inputX * moveSpeed, rb.velocity.y);
 
         var pos = rb.position;
-        pos.x = Mathf.Clamp(pos.x, -boundX, boundX);
-        pos.y = Mathf.Clamp(pos.y, -boundY, boundY);
         rb.position = pos;
     }
 
