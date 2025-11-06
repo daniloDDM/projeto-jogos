@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 5bd1d5032289f3d4a9280914eaac033d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7568655339438437810
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_0
+  - first:
+      213: 1543253041234063089
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_1
+  - first:
+      213: -3546195954371992967
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_2
+  - first:
+      213: 2508135531938644023
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_3
+  - first:
+      213: 1871205916369037374
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_4
+  - first:
+      213: -3599660265681108223
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_5
+  - first:
+      213: 4808308905222326113
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_6
+  - first:
+      213: -2836816065317536722
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_7
+  - first:
+      213: 1119110253361777130
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_8
+  - first:
+      213: 39429042138257223
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_9
+  - first:
+      213: 4998675231152555114
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_10
+  - first:
+      213: -4296072628006912624
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_11
+  - first:
+      213: 2247741381127061389
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_12
+  - first:
+      213: 4626104691664894771
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+      Spectre_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 411
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b577964ee3490960800000000000000
+      internalID: 7568655339438437810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 409
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe2c49e67cba6510800000000000000
+      internalID: 1543253041234063089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 410
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972eabb619169cec0800000000000000
+      internalID: -3546195954371992967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 411
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7300db54affaec220800000000000000
+      internalID: 2508135531938644023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 285
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3829caeddbd7f910800000000000000
+      internalID: 1871205916369037374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1034df76f007b0ec0800000000000000
+      internalID: -3599660265681108223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_6
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 292
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167cf1a497b8ab240800000000000000
+      internalID: 4808308905222326113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 298
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c70a591da91a8d0800000000000000
+      internalID: -2836816065317536722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 167
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9402c98d0e78f00800000000000000
+      internalID: 1119110253361777130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 165
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7471c7241841c8000800000000000000
+      internalID: 39429042138257223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 161
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64446c73acde5540800000000000000
+      internalID: 4998675231152555114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 154
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7e56d4b84164c0800000000000000
+      internalID: -4296072628006912624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f360980e4913f10800000000000000
+      internalID: 2247741381127061389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies -
+        Spectre_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 23
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b3478f4b9333040800000000000000
+      internalID: 4626104691664894771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
