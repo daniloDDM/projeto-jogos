@@ -7,25 +7,15 @@ public class AttackHitbox : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (!other) return;
-
-        // Debug para confirmar qual objeto colidiu
-        Debug.Log($"Hitbox colidiu com: {other.gameObject.name} (tag: {other.gameObject.tag})");
-
         if (other.CompareTag(tagInimigo))
         {
-            // procura o script no próprio objeto ou em um pai (cobre mais casos)
-            Inimigo inimigo = other.GetComponent<Inimigo>() ?? other.GetComponentInParent<Inimigo>();
+            //Inimigo inimigo = other.GetComponent<Inimigo>();
 
-            if (inimigo != null)
-            {
-                inimigo.TakeDamage(dano);
-                Debug.Log("Dano aplicado ao inimigo.");
-            }
-            else
-            {
-                Debug.LogWarning("Tag Inimigo encontrada mas componente Inimigo não foi localizado.");
-            }
+            //if (inimigo != null)
+            //{
+            //    inimigo.TakeDamage(dano);
+            //}
+            Debug.Log("Toma!");
         }
     }
 }
