@@ -21,6 +21,7 @@ public class Player : MonoBehaviour
 
     float inputX;
     bool isGrounded = true;
+    bool isDead = false;
 
     void Awake()
     {
@@ -68,6 +69,7 @@ public class Player : MonoBehaviour
     void OnCollisionEnter2D(Collision2D c)
     {
         if (c.gameObject.CompareTag("Plataforma")) isGrounded = true;
+        if (c.gameObject.CompareTag("Dentes")) Die();
     }
     void OnCollisionExit2D(Collision2D c)
     {
@@ -84,5 +86,15 @@ public class Player : MonoBehaviour
     {
         hitbox.SetActive(false);
         Debug.Log("false");
+    }
+
+    void Die()
+    {
+        if (isDead) return; // impede chamar várias vezes
+
+        isDead = true;
+        animator.SetTrigger("morrendo");
+        rb.velocity = Vector2.zero; // para o movimento
+        this.enabled = false;       // desativa controle do jogador
     }
 }
