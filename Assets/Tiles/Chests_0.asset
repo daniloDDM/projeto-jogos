@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: Chests_0
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -2449109871443933174, guid: caa2987c6c20d4b449c47d024e07aee4, type: 3}
+  m_Sprite: {fileID: -2449109871443933174, guid: 16abeb507d416504cadf688396d82ee8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
