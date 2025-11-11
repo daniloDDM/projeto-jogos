@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 674218052}
   m_Layer: 0
   m_Name: Chaves
-  m_TagString: Untagged
+  m_TagString: Chave
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7672,7 +7672,7 @@ GameObject:
   - component: {fileID: 1375021415}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -87962,7 +87962,7 @@ GameObject:
   - component: {fileID: 1578921569}
   m_Layer: 0
   m_Name: Grid
-  m_TagString: Untagged
+  m_TagString: Bau
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -88053,7 +88053,7 @@ GameObject:
   - component: {fileID: 2031962747}
   m_Layer: 0
   m_Name: Dentes
-  m_TagString: Untagged
+  m_TagString: Dentes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

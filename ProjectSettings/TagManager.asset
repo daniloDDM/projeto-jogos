@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Plataforma
   - Inimigo
+  - Dentes
+  - Chave
+  - Bau
   layers:
   - Default
   - TransparentFX
