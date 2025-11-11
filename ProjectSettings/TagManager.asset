@@ -7,8 +7,10 @@ TagManager:
   - Plataforma
   - Inimigo
   - Dentes
-  - Chave
-  - Bau
+  - Bau1
+  - Bau2
+  - Chave1
+  - Chave2
   layers:
   - Default
   - TransparentFX
