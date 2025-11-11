@@ -63,7 +63,7 @@ public class Player : MonoBehaviour
         rb.velocity = new Vector2(inputX * moveSpeed, rb.velocity.y);
 
         var pos = rb.position;
-        rb.position = pos;
+        //rb.position = pos;
     }
 
     void OnCollisionEnter2D(Collision2D c)
