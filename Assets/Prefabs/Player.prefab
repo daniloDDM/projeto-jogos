@@ -30,8 +30,8 @@ Transform:
   m_GameObject: {fileID: 5103638381874189539}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -2, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_LocalPosition: {x: -10, y: -3, z: 0}
+  m_LocalScale: {x: 6, y: 6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 685009793104683898}
@@ -173,9 +173,9 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: 0.05
+  m_AngularDrag: 0
   m_GravityScale: 5
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: d4340257b1028d14da68ae261a293636, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -184,7 +184,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 1
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!114 &5239096593324422321
 MonoBehaviour:
@@ -202,10 +202,8 @@ MonoBehaviour:
   moveLeft: 276
   jump: 273
   golpe: 32
-  moveSpeed: 5
-  jumpForce: 15
-  boundX: 13
-  boundY: 4.5
+  moveSpeed: 10
+  jumpForce: 20
   hitbox: {fileID: 6318240736387052242}
 --- !u!1 &6318240736387052242
 GameObject:
