@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Inimigo : MonoBehaviour
 {
-    [Header("Atributos básicos")]
+    [Header("Atributos bï¿½sicos")]
     public int vida = 30;
     public float moveSpeed = 3f;
     public Transform target;
