@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5bd1d5032289f3d4a9280914eaac033d
+guid: 98c679a1f4151d54880f45e6c97bc10c
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -470,21 +470,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_0: 7568655339438437810
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_1: 1543253041234063089
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_10: 4998675231152555114
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_11: -4296072628006912624
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_12: 2247741381127061389
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_13: 4626104691664894771
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_2: -3546195954371992967
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_3: 2508135531938644023
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_4: 1871205916369037374
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_5: -3599660265681108223
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_6: 4808308905222326113
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_7: -2836816065317536722
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_8: 1119110253361777130
-      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Enemies - Spectre_9: 39429042138257223
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

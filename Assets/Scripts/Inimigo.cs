@@ -2,22 +2,37 @@ using UnityEngine;
 
 public class Inimigo : MonoBehaviour
 {
-    [Header("Status")]
-    public int vida = 10;
+    [Header("Atributos b�sicos")]
+    public int vida = 30;
+    public float moveSpeed = 3f;
+    public Transform target;
 
-    // Chamado quando o inimigo recebe dano
-    public void TakeDamage(int dano)
+    protected Rigidbody2D rb;
+
+    protected virtual void Start()
     {
-        vida -= dano;
-        Debug.Log($"Inimigo tomou {dano} de dano! Vida restante: {vida}");
-
-        if (vida <= 0)
-            Morrer();
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    void Morrer()
+    protected virtual void Update()
     {
-        Debug.Log("Inimigo derrotado!");
+        if (!target)
+            target = GameObject.FindGameObjectWithTag("Player")?.transform;
+    }
+
+    public virtual void TakeDamage(int amount)
+    {
+        vida -= amount;
+        Debug.Log($"{name} levou dano! HP atual: {vida}");
+
+        if (vida <= 0)
+            Die();
+    }
+
+    protected virtual void Die()
+    {
+        Debug.Log($"{name} morreu!");
         Destroy(gameObject);
+        GameManager.AddScore(10);
     }
 }
