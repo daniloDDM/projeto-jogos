@@ -66,26 +66,53 @@ public class Player : MonoBehaviour
         //rb.position = pos;
     }
 
+    [SerializeField] float minGroundNormalY = 0.2f; // tolerância pra rampas
+
     void OnCollisionEnter2D(Collision2D c)
     {
-        if (c.gameObject.CompareTag("Plataforma")) isGrounded = true;
-        if (c.gameObject.CompareTag("Dentes")) Die();
+        if (c.gameObject.CompareTag("Plataforma") && IsGroundCollision(c))
+        {
+            isGrounded = true;
+        }
+
+        if (c.gameObject.CompareTag("Dentes"))
+            Die();
     }
+
+    void OnCollisionStay2D(Collision2D c)
+    {
+        if (c.gameObject.CompareTag("Plataforma") && IsGroundCollision(c))
+            isGrounded = true;
+    }
+
     void OnCollisionExit2D(Collision2D c)
     {
-        if (c.gameObject.CompareTag("Plataforma")) isGrounded = false;
+        if (c.gameObject.CompareTag("Plataforma"))
+        {
+            isGrounded = false;
+        }
+    }
+
+    // auxiliar: só considera chão se o contato vem de baixo
+    bool IsGroundCollision(Collision2D c)
+    {
+        for (int i = 0; i < c.contactCount; i++)
+        {
+            var contact = c.GetContact(i);
+            if (contact.normal.y >= minGroundNormalY)
+                return true; // é chão
+        }
+        return false; // é parede ou teto
     }
 
     public void EnableHitbox()
     {
         hitbox.SetActive(true);
-        Debug.Log("true");
     }
 
     public void DisableHitbox()
     {
         hitbox.SetActive(false);
-        Debug.Log("false");
     }
 
     void Die()
