@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Spectre : Inimigo
 {
-    public GameObject DandoDano;
+    public GameObject dandoDano;
 
     protected override void Start()
     {
@@ -32,9 +32,8 @@ public class Spectre : Inimigo
     {
         if (other.CompareTag("Player"))
         {
-            GameObject efeito = Instantiate(DandoDano, transform.position, Quaternion.identity);
+            GameObject efeito = Instantiate(dandoDano, transform.position, Quaternion.identity);
             Destroy(efeito, 0.5f);
-            animator.SetTrigger("golpeando");
             Destroy(gameObject);
             GameManager.LoseLife(1);
         }

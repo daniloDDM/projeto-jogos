@@ -1138,7 +1138,50 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      explosionFull_0: -9221928890621146790
+      explosionFull_1: 2937000977790977096
+      explosionFull_10: -2323595527013767258
+      explosionFull_11: -4807194570634440317
+      explosionFull_12: 5056502501635804636
+      explosionFull_13: 1463622316179791561
+      explosionFull_14: 5041489221872481875
+      explosionFull_15: -7827633376709627935
+      explosionFull_16: -1453724504024015096
+      explosionFull_17: 5928269997156224283
+      explosionFull_18: -3982227198169508418
+      explosionFull_19: -5599176394902426342
+      explosionFull_2: -7069114014261654183
+      explosionFull_20: -6944008625620650614
+      explosionFull_21: -8275098923885376154
+      explosionFull_22: -1077707161321125297
+      explosionFull_23: -7280380578741403330
+      explosionFull_24: -2524732275334630373
+      explosionFull_25: 1666861954930316759
+      explosionFull_26: -3959247082008015660
+      explosionFull_27: 3465634948776549503
+      explosionFull_28: -2288077909427506515
+      explosionFull_29: 896580846198990305
+      explosionFull_3: -2015651233870115922
+      explosionFull_30: -1555379346388955067
+      explosionFull_31: 5673902013367771936
+      explosionFull_32: 5983442126291421579
+      explosionFull_33: 6814831768061242098
+      explosionFull_34: -8707029301672018759
+      explosionFull_35: -1003816542755363379
+      explosionFull_36: 4200210810064802537
+      explosionFull_37: 1055179165159989441
+      explosionFull_38: -6495426565457660462
+      explosionFull_39: -882561000250573295
+      explosionFull_4: 6138572976323128595
+      explosionFull_40: -2228137529842442359
+      explosionFull_41: -8898540131049244346
+      explosionFull_42: -1337525519034868267
+      explosionFull_5: 7361913520003436785
+      explosionFull_6: 806277804437978892
+      explosionFull_7: -3109513111388989281
+      explosionFull_8: -7247164982863416668
+      explosionFull_9: 1864906527203454471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class SpectreBoss : Inimigo
 {
+    public GameObject morrendo;
+
     protected override void Update()
     {
         base.Update();
@@ -21,6 +23,15 @@ public class SpectreBoss : Inimigo
                 transform.localScale = new Vector3(Mathf.Abs(s.x) * facing, s.y, s.z);
             }
         }
+    }
+
+    protected override void Die()
+    {
+        GameObject efeito = Instantiate(morrendo, transform.position, Quaternion.identity);
+        Destroy(efeito, 0.5f);
+        Debug.Log($"{name} morreu!");
+        Destroy(gameObject);
+        GameManager.AddScore(100);
     }
 
 }

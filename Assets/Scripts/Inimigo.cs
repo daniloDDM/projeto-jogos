@@ -6,7 +6,7 @@ public class Inimigo : MonoBehaviour
     public int vida = 30;
     public float moveSpeed = 3f;
     public Transform target;
-    public GameObject TomandoDano;
+    public GameObject tomandoDano;
 
     protected Rigidbody2D rb;
     protected Animator animator;
@@ -25,7 +25,7 @@ public class Inimigo : MonoBehaviour
 
     public virtual void TakeDamage(int amount)
     {
-        GameObject efeito = Instantiate(TomandoDano, transform.position, Quaternion.identity);
+        GameObject efeito = Instantiate(tomandoDano, transform.position, Quaternion.identity);
         Destroy(efeito, 0.5f);
 
         vida -= amount;
