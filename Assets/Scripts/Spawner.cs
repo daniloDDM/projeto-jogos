@@ -4,16 +4,14 @@ public class SpawnInimigo : MonoBehaviour
 {
     public GameObject inimigoPrefab;
 
-    public Transform point1;
-    public Transform point2;
-    public Transform point3;
+    public Transform point;
 
     private float timer = 0.0f;
     public static float waitTime = 2.0f;
 
     private void Start()
     {
-        gerarInimigo();
+        Instantiate(inimigoPrefab, point.position, Quaternion.identity);
     }
 
     private void Update()
@@ -25,7 +23,7 @@ public class SpawnInimigo : MonoBehaviour
             int randomPoint = Random.Range(1, 4);
             if (randomPoint != 1)
             {
-                gerarInimigo();
+                Instantiate(inimigoPrefab, point.position, Quaternion.identity);
                 if (waitTime > 0)
                 {
                     waitTime -= 0.01f;
@@ -35,20 +33,4 @@ public class SpawnInimigo : MonoBehaviour
 
     }
 
-    void gerarInimigo()
-    {
-        int randomPoint = Random.Range(1, 4);
-        switch (randomPoint)
-        {
-            case 1:
-                Instantiate(inimigoPrefab, point1.position, Quaternion.identity);
-                break;
-            case 2:
-                Instantiate(inimigoPrefab, point2.position, Quaternion.identity);
-                break;
-            case 3:
-                Instantiate(inimigoPrefab, point3.position, Quaternion.identity);
-                break;
-        }
-    }
 }
