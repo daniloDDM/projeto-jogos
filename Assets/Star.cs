@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
 public class Star : MonoBehaviour
@@ -13,7 +14,7 @@ public class Star : MonoBehaviour
             GameObject efeito = Instantiate(eba, transform.position, Quaternion.identity);
             Destroy(efeito, 0.5f);
             Destroy(gameObject);
-            GameManager.AddScore(200);
+            ScenaLoader.loadValhalla();
         }
     }
 }
