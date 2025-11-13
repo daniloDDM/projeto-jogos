@@ -6,10 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4c3677b3b1f4e074f9083c04f565b5d0
+  - enabled: 1
     path: Assets/Scenes/tileset-helheim.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/tileset-valhalla.unity
     guid: cc146fc593a3f4343aa186163c12e5c1
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 0096df13ec4d21242a08763ca11a508e
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 2f3b234b09fbe7649bebe348b4868c11
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

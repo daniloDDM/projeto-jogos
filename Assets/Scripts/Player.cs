@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 [RequireComponent(typeof(Rigidbody2D), typeof(Animator))]
 public class Player : MonoBehaviour
@@ -123,5 +124,13 @@ public class Player : MonoBehaviour
         animator.SetTrigger("morrendo");
         rb.velocity = Vector2.zero; // para o movimento
         this.enabled = false;       // desativa controle do jogador
+
+        StartCoroutine(TrocarCenaDepoisDaAnim());
+    }
+
+    IEnumerator TrocarCenaDepoisDaAnim()
+    {
+        yield return new WaitForSeconds(2.0f);
+        ScenaLoader.loadLose();
     }
 }
