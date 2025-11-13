@@ -1,7 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
-using System.Threading;
 using UnityEngine;
+using System.Collections;
 
 public class Star : MonoBehaviour
 {
@@ -15,6 +13,13 @@ public class Star : MonoBehaviour
             Destroy(efeito, 0.5f);
             Destroy(gameObject);
             ScenaLoader.loadValhalla();
+            //StartCoroutine(TrocarCenaDepoisDaAnim());
         }
     }
+
+    //IEnumerator TrocarCenaDepoisDaAnim()
+    //{
+    //    yield return new WaitForSeconds(1.0f);
+    //    ScenaLoader.loadValhalla();
+    //}
 }
