@@ -200,4 +200,5 @@ MonoBehaviour:
   vida: 100
   moveSpeed: 1
   target: {fileID: 0}
-  TomandoDano: {fileID: 4910411951253400916, guid: 375e020b15222774cb3f434c514df62a, type: 3}
+  tomandoDano: {fileID: 4910411951253400916, guid: 375e020b15222774cb3f434c514df62a, type: 3}
+  morrendo: {fileID: 3418179232358134276, guid: c4320b3e765032d428de40628a50ec27, type: 3}
