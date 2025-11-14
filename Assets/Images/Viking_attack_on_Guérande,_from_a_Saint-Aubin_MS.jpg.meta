@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Viking_attack_on_Gu\xE9rande,_from_a_Saint-Aubin_MS_0": -2782221243067163756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
